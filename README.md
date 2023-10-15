@@ -1,0 +1,1 @@
+This project was made for Free Code Camp and I got some help from their code base to understand better and solve issues. 
